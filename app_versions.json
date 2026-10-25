@@ -1,0 +1,1506 @@
+{
+  "schema_version": 1,
+  "enabled": true,
+  "apps": {
+    "com.deenalhaq.abdallah_kamel": {
+      "flavor": "abdallah_kamel",
+      "name": "عبدالله كامل بدون نت",
+      "android": {
+        "latest_version_name": "5.0.4",
+        "latest_version_code": 22,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.4",
+        "latest_version_code": 22,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.abdirashid_sufi": {
+      "flavor": "abdirashid_sufi",
+      "name": "عبدالرشيد صوفي بدون نت",
+      "android": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 9,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 9,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.abdulaziz_alahmad": {
+      "flavor": "abdulaziz_alahmad",
+      "name": "عبدالعزيز الأحمد بدون نت",
+      "android": {
+        "latest_version_name": "2.0.1",
+        "latest_version_code": 3,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "2.0.1",
+        "latest_version_code": 3,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.abdulbari_althubaiti": {
+      "flavor": "abdulbari_althubaiti",
+      "name": "عبدالبارئ الثبيتي بدون نت",
+      "android": {
+        "latest_version_name": "1.0.2",
+        "latest_version_code": 3,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "1.0.2",
+        "latest_version_code": 3,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.abdulbasit": {
+      "flavor": "abdulbasit",
+      "name": "عبدالباسط بدون نت",
+      "android": {
+        "latest_version_name": "5.0.5",
+        "latest_version_code": 24,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.5",
+        "latest_version_code": 24,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.abdullah_al_mousa": {
+      "flavor": "abdullah_al_mousa",
+      "name": "عبدالله الموسى بدون نت",
+      "android": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.abdullah_aljuhany": {
+      "flavor": "abdullah_aljuhany",
+      "name": "عبدالله الجهني بدون نت",
+      "android": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 9,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 9,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.abdullah_basfer": {
+      "flavor": "abdullah_basfer",
+      "name": "عبدالله بصفر بدون نت",
+      "android": {
+        "latest_version_name": "2.0.1",
+        "latest_version_code": 3,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "2.0.1",
+        "latest_version_code": 3,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.abdullah_matroud": {
+      "flavor": "abdullah_matroud",
+      "name": "عبدالله مطرود بدون نت",
+      "android": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.abdulmuhsin_alqasim": {
+      "flavor": "abdulmuhsin_alqasim",
+      "name": "عبدالمحسن القاسم بدون نت",
+      "android": {
+        "latest_version_name": "2.0.1",
+        "latest_version_code": 3,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "2.0.1",
+        "latest_version_code": 3,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.abdulrahman_musaad": {
+      "flavor": "abdulrahman_musaad",
+      "name": "عبدالرحمن مسعد بدون نت",
+      "android": {
+        "latest_version_name": "8.0.2",
+        "latest_version_code": 10,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "8.0.2",
+        "latest_version_code": 10,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.abdulwadood_haneef": {
+      "flavor": "abdulwadood_haneef",
+      "name": "عبدالودود حنيف بدون نت",
+      "android": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 9,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 9,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.adel_al_kalbani": {
+      "flavor": "adel_al_kalbani",
+      "name": "عادل الكلباني بدون نت",
+      "android": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.afifi_mohammed_taj": {
+      "flavor": "afifi_mohammed_taj",
+      "name": "عفيفي محمد تاج بدون نت",
+      "android": {
+        "latest_version_name": "2.0.1",
+        "latest_version_code": 3,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "2.0.1",
+        "latest_version_code": 3,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.ahmad_al_nufais": {
+      "flavor": "ahmad_al_nufais",
+      "name": "أحمد النفيس بدون نت",
+      "android": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 10,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 10,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.ahmad_khader_al_tarabulsi": {
+      "flavor": "ahmad_khader_al_tarabulsi",
+      "name": "أحمد خضر الطرابلسي بدون نت",
+      "android": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.ahmad_mohammad_taher": {
+      "flavor": "ahmad_mohammad_taher",
+      "name": "أحمد محمد طاهر بدون نت",
+      "android": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.ahmed_hassan": {
+      "flavor": "ahmed_hassan",
+      "name": "أحمد حسن بدون نت",
+      "android": {
+        "latest_version_name": "13.0.1",
+        "latest_version_code": 14,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "13.0.1",
+        "latest_version_code": 14,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.ahmed_naina": {
+      "flavor": "ahmed_naina",
+      "name": "أحمد نعينع بدون نت",
+      "android": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.al_afasy": {
+      "flavor": "al_afasy",
+      "name": "مشاري العفاسي بدون نت",
+      "android": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 10,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 10,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.al_ajmi": {
+      "flavor": "al_ajmi",
+      "name": "العجمي بدون نت",
+      "android": {
+        "latest_version_name": "5.0.4",
+        "latest_version_code": 19,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.4",
+        "latest_version_code": 19,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.al_dossari": {
+      "flavor": "al_dossari",
+      "name": "ياسر الدوسري بدون نت",
+      "android": {
+        "latest_version_name": "5.0.4",
+        "latest_version_code": 19,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.4",
+        "latest_version_code": 19,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.al_hudhayfi": {
+      "flavor": "al_hudhayfi",
+      "name": "علي الحذيفي بدون نت",
+      "android": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 10,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 10,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.al_minshawi": {
+      "flavor": "al_minshawi",
+      "name": "المنشاوي بدون نت",
+      "android": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 14,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 14,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.al_mueaqly": {
+      "flavor": "al_mueaqly",
+      "name": "ماهر المعيقلي بدون نت",
+      "android": {
+        "latest_version_name": "5.0.4",
+        "latest_version_code": 20,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.4",
+        "latest_version_code": 20,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.al_naqshbandi": {
+      "flavor": "al_naqshbandi",
+      "name": "ابتهالات النقشبندي بدون نت",
+      "android": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.al_qatami": {
+      "flavor": "al_qatami",
+      "name": "ناصر القطامي بدون نت",
+      "android": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 12,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 12,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.al_shatri": {
+      "flavor": "al_shatri",
+      "name": "الشاطري بدون نت",
+      "android": {
+        "latest_version_name": "5.0.4",
+        "latest_version_code": 17,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.4",
+        "latest_version_code": 17,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.al_sudais": {
+      "flavor": "al_sudais",
+      "name": "السديس بدون نت",
+      "android": {
+        "latest_version_name": "5.0.4",
+        "latest_version_code": 18,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.4",
+        "latest_version_code": 18,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.alarefi_lectures": {
+      "flavor": "alarefi_lectures",
+      "name": "محاضرات العريفي بدون نت",
+      "android": {
+        "latest_version_name": "7.0.1",
+        "latest_version_code": 8,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "7.0.1",
+        "latest_version_code": 8,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.alarifi_qisas_alianbia": {
+      "flavor": "alarifi_qisas_alianbia",
+      "name": "العريفي قصص الانبياء بدون نت",
+      "android": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.ali_albanna": {
+      "flavor": "ali_albanna",
+      "name": "محمود البنا بدون نت",
+      "android": {
+        "latest_version_name": "5.0.4",
+        "latest_version_code": 18,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.4",
+        "latest_version_code": 18,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.ali_jaber": {
+      "flavor": "ali_jaber",
+      "name": "علي جابر بدون نت",
+      "android": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 10,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 10,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.aloosi": {
+      "flavor": "aloosi",
+      "name": "عبد الرحمن العوسي بدون نت",
+      "android": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 13,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 13,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.alsayid_mutualiy": {
+      "flavor": "alsayid_mutualiy",
+      "name": "السيد متولي بدون نت",
+      "android": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.alsayid_saeid": {
+      "flavor": "alsayid_saeid",
+      "name": "السيد سعيد بدون نت",
+      "android": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.alzain_mohamed": {
+      "flavor": "alzain_mohamed",
+      "name": "الزين محمد بدون نت",
+      "android": {
+        "latest_version_name": "5.0.6",
+        "latest_version_code": 23,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.6",
+        "latest_version_code": 23,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.ameer_shamim": {
+      "flavor": "ameer_shamim",
+      "name": "عمير شميم بدون نت",
+      "android": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.amer_alkazemi": {
+      "flavor": "amer_alkazemi",
+      "name": "عامر الكاظمي بدون نت",
+      "android": {
+        "latest_version_name": "7.0.1",
+        "latest_version_code": 8,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "7.0.1",
+        "latest_version_code": 8,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.anachid_mishary": {
+      "flavor": "anachid_mishary",
+      "name": "أناشيد مشاري العفاسي بدون نت",
+      "android": {
+        "latest_version_name": "7.0.1",
+        "latest_version_code": 8,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "7.0.1",
+        "latest_version_code": 8,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.anas_jalhoum": {
+      "flavor": "anas_jalhoum",
+      "name": "انس جلهوم بدون نت",
+      "android": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.anashid_al_mahdawi": {
+      "flavor": "anashid_al_mahdawi",
+      "name": "أناشيد عبدالله المهداوى",
+      "android": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.anashid_al_muqit": {
+      "flavor": "anashid_al_muqit",
+      "name": "أناشيد محمد المقيط",
+      "android": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.ayman_swed": {
+      "flavor": "ayman_swed",
+      "name": "أيمن سويد بدون نت",
+      "android": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 10,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 10,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.bandar_balila": {
+      "flavor": "bandar_balila",
+      "name": "بندر بليلة بدون نت",
+      "android": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 10,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 10,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.belal_darbali": {
+      "flavor": "belal_darbali",
+      "name": "بلال دربالي بدون نت",
+      "android": {
+        "latest_version_name": "2.0.1",
+        "latest_version_code": 3,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "2.0.1",
+        "latest_version_code": 3,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.el_ghamidi": {
+      "flavor": "el_ghamidi",
+      "name": "سعد الغامدي بدون نت",
+      "android": {
+        "latest_version_name": "5.0.4",
+        "latest_version_code": 17,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.4",
+        "latest_version_code": 17,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.el_kouchi": {
+      "flavor": "el_kouchi",
+      "name": "العيون الكوشي بدون نت",
+      "android": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 13,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 13,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.fares_abbad": {
+      "flavor": "fares_abbad",
+      "name": "فارس عباد بدون نت",
+      "android": {
+        "latest_version_name": "5.0.4",
+        "latest_version_code": 20,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.4",
+        "latest_version_code": 20,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.hassan_saleh": {
+      "flavor": "hassan_saleh",
+      "name": "حسن صالح بدون نت",
+      "android": {
+        "latest_version_name": "5.0.4",
+        "latest_version_code": 18,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.4",
+        "latest_version_code": 18,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.hisham_al_haraz": {
+      "flavor": "hisham_al_haraz",
+      "name": "هشام الهراز بدون نت",
+      "android": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.hosary": {
+      "flavor": "hosary",
+      "name": "محمود خليل الحصرى بدون نت",
+      "android": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 10,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 10,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.ibraakhdar": {
+      "flavor": "ibraakhdar",
+      "name": "إبراهيم الأخضر بدون نت",
+      "android": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 10,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 10,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.idris_abkar": {
+      "flavor": "idris_abkar",
+      "name": "إدريس أبكر بدون نت",
+      "android": {
+        "latest_version_name": "7.0.1",
+        "latest_version_code": 8,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "7.0.1",
+        "latest_version_code": 8,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.ilyas_hajri": {
+      "flavor": "ilyas_hajri",
+      "name": "الياس حجري بدون نت",
+      "android": {
+        "latest_version_name": "2.0.1",
+        "latest_version_code": 3,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "2.0.1",
+        "latest_version_code": 3,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.islam_sobhi": {
+      "flavor": "islam_sobhi",
+      "name": "إسلام صبحي بدون نت",
+      "android": {
+        "latest_version_name": "7.0.1",
+        "latest_version_code": 8,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "7.0.1",
+        "latest_version_code": 8,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.khalid_galil": {
+      "flavor": "khalid_galil",
+      "name": "خالد الجليل بدون نت",
+      "android": {
+        "latest_version_name": "5.0.6",
+        "latest_version_code": 23,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.6",
+        "latest_version_code": 23,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.khatab_hazim_shuman": {
+      "flavor": "khatab_hazim_shuman",
+      "name": "خطب حازم شومان بدون نت",
+      "android": {
+        "latest_version_name": "7.0.1",
+        "latest_version_code": 8,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "7.0.1",
+        "latest_version_code": 8,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.khatab_kushk": {
+      "flavor": "khatab_kushk",
+      "name": "خطب كشك بدون نت",
+      "android": {
+        "latest_version_name": "7.0.1",
+        "latest_version_code": 8,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "7.0.1",
+        "latest_version_code": 8,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.khutab_al_shaarawy": {
+      "flavor": "khutab_al_shaarawy",
+      "name": "خطب الشعراوي بدون نت",
+      "android": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.khutab_al_shanqity": {
+      "flavor": "khutab_al_shanqity",
+      "name": "خطب محمد الشنقيطي بدون نت",
+      "android": {
+        "latest_version_name": "2.0.1",
+        "latest_version_code": 3,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "2.0.1",
+        "latest_version_code": 3,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.mohamed_almohisni": {
+      "flavor": "mohamed_almohisni",
+      "name": "محمد المحيسني بدون نت",
+      "android": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 9,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 9,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.mohamed_elbarak": {
+      "flavor": "mohamed_elbarak",
+      "name": "محمد البراك بدون نت",
+      "android": {
+        "latest_version_name": "7.0.1",
+        "latest_version_code": 8,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "7.0.1",
+        "latest_version_code": 8,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.mohamed_hady_toure": {
+      "flavor": "mohamed_hady_toure",
+      "name": "محمد الهادي توري بدون نت",
+      "android": {
+        "latest_version_name": "2.0.1",
+        "latest_version_code": 3,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "2.0.1",
+        "latest_version_code": 3,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.mohamed_osman": {
+      "flavor": "mohamed_osman",
+      "name": "محمد عثمان حاج علي بدون نت",
+      "android": {
+        "latest_version_name": "2.0.1",
+        "latest_version_code": 3,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "2.0.1",
+        "latest_version_code": 3,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.mohammad_allaythi": {
+      "flavor": "mohammad_allaythi",
+      "name": "محمد الليثي بدون نت",
+      "android": {
+        "latest_version_name": "7.0.1",
+        "latest_version_code": 8,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "7.0.1",
+        "latest_version_code": 8,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.mohammad_hussein_amer": {
+      "flavor": "mohammad_hussein_amer",
+      "name": "محمد حسين عامر بدون نت",
+      "android": {
+        "latest_version_name": "2.0.1",
+        "latest_version_code": 3,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "2.0.1",
+        "latest_version_code": 3,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.mohammad_jibril": {
+      "flavor": "mohammad_jibril",
+      "name": "محمد جبريل بدون نت",
+      "android": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 10,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 10,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.mohammad_taha_aljunaid": {
+      "flavor": "mohammad_taha_aljunaid",
+      "name": "محمد طه الجنيد بدون نت",
+      "android": {
+        "latest_version_name": "2.0.1",
+        "latest_version_code": 3,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "2.0.1",
+        "latest_version_code": 3,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.mohammd_hassaan": {
+      "flavor": "mohammd_hassaan",
+      "name": "محمد حسان بدون نت",
+      "android": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.mohammed_al_faqih": {
+      "flavor": "mohammed_al_faqih",
+      "name": "محمد الفقيه بدون نت",
+      "android": {
+        "latest_version_name": "4.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "4.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.mohammed_al_luhaidan": {
+      "flavor": "mohammed_al_luhaidan",
+      "name": "محمد اللحيدان بدون نت",
+      "android": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.mohammed_al_zubair": {
+      "flavor": "mohammed_al_zubair",
+      "name": "محمد الزبير بدون نت",
+      "android": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 13,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 13,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.mohammed_ayub": {
+      "flavor": "mohammed_ayub",
+      "name": "محمد أيوب بدون نت",
+      "android": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 10,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 10,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.mostafa_ismail": {
+      "flavor": "mostafa_ismail",
+      "name": "مصطفى اسماعيل بدون نت",
+      "android": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.mounir_al_tunisi": {
+      "flavor": "mounir_al_tunisi",
+      "name": "منير التونسي بدون نت",
+      "android": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 11,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 11,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.muhadarat_nabil_al_awadi": {
+      "flavor": "muhadarat_nabil_al_awadi",
+      "name": "محاضرات نبيل العوضي",
+      "android": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.mustafa_al_lahouni": {
+      "flavor": "mustafa_al_lahouni",
+      "name": "مصطفى اللاهوني بدون نت",
+      "android": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.nasreddin_tobar": {
+      "flavor": "nasreddin_tobar",
+      "name": "نصر الدين طوبار بدون نت",
+      "android": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.nourin_mohamed_siddiq": {
+      "flavor": "nourin_mohamed_siddiq",
+      "name": "نورين محمد صديق بدون نت",
+      "android": {
+        "latest_version_name": "7.0.1",
+        "latest_version_code": 8,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "7.0.1",
+        "latest_version_code": 8,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.omar_al_kazabri": {
+      "flavor": "omar_al_kazabri",
+      "name": "عمر القزابري بدون نت",
+      "android": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 12,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 12,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.raad_al_azzawi": {
+      "flavor": "raad_al_azzawi",
+      "name": "رعد العزاوي بدون نت",
+      "android": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 13,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 13,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.raad_alkurdi": {
+      "flavor": "raad_alkurdi",
+      "name": "رعد الكردي بدون نت",
+      "android": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 10,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 10,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.ramadan_songs": {
+      "flavor": "ramadan_songs",
+      "name": "أغاني رمضان بدون نت",
+      "android": {
+        "latest_version_name": "7.0.1",
+        "latest_version_code": 8,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "7.0.1",
+        "latest_version_code": 8,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.rawayie_alsaalimi": {
+      "flavor": "rawayie_alsaalimi",
+      "name": "روائع منصور السالمي بدون نت",
+      "android": {
+        "latest_version_name": "7.0.1",
+        "latest_version_code": 8,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "7.0.1",
+        "latest_version_code": 8,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.rawayie_khalid_alraashid": {
+      "flavor": "rawayie_khalid_alraashid",
+      "name": "روائع خالد الراشد بدون نت",
+      "android": {
+        "latest_version_name": "7.0.1",
+        "latest_version_code": 8,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "7.0.1",
+        "latest_version_code": 8,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.ruqyah_shareia": {
+      "flavor": "ruqyah_shareia",
+      "name": "الرقية الشرعية الشاملة بدون نت",
+      "android": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.salah_al_hashem": {
+      "flavor": "salah_al_hashem",
+      "name": "صلاح الهاشم بدون نت",
+      "android": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.salah_bukhatir": {
+      "flavor": "salah_bukhatir",
+      "name": "صلاح بو خاطر بدون نت",
+      "android": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 10,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 10,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.saoud_shuraim": {
+      "flavor": "saoud_shuraim",
+      "name": "سعود الشريم بدون نت",
+      "android": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 12,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 12,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.shaban_al_sayyad": {
+      "flavor": "shaban_al_sayyad",
+      "name": "شعبان الصياد بدون نت",
+      "android": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.shahat_anwar": {
+      "flavor": "shahat_anwar",
+      "name": "الشحات أنور بدون نت",
+      "android": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 9,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 9,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.somayya_aldeeb": {
+      "flavor": "somayya_aldeeb",
+      "name": "سمية الديب بدون نت",
+      "android": {
+        "latest_version_name": "7.0.1",
+        "latest_version_code": 8,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "7.0.1",
+        "latest_version_code": 8,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.tablawi": {
+      "flavor": "tablawi",
+      "name": "محمد الطبلاوي بدون نت",
+      "android": {
+        "latest_version_name": "5.0.4",
+        "latest_version_code": 18,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.4",
+        "latest_version_code": 18,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.tawfik_assayegh": {
+      "flavor": "tawfik_assayegh",
+      "name": "توفيق الصائغ بدون نت",
+      "android": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 11,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 11,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.wadi_al_yamani": {
+      "flavor": "wadi_al_yamani",
+      "name": "وديع اليمني بدون نت",
+      "android": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 12,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 12,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.walid_alfalluji": {
+      "flavor": "walid_alfalluji",
+      "name": "وليد الفلوجي بدون نت",
+      "android": {
+        "latest_version_name": "7.0.1",
+        "latest_version_code": 8,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "7.0.1",
+        "latest_version_code": 8,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.yahya_hawwa": {
+      "flavor": "yahya_hawwa",
+      "name": "يحيى حوى بدون نت",
+      "android": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.yassin_al_jazaery": {
+      "flavor": "yassin_al_jazaery",
+      "name": "ياسين الجزائري بدون نت",
+      "android": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "5.0.1",
+        "latest_version_code": 6,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    },
+    "com.deenalhaq.yusuf_kalo": {
+      "flavor": "yusuf_kalo",
+      "name": "يوسف كالو بدون نت",
+      "android": {
+        "latest_version_name": "7.0.1",
+        "latest_version_code": 8,
+        "min_version_code": 0
+      },
+      "ios": {
+        "latest_version_name": "7.0.1",
+        "latest_version_code": 8,
+        "min_version_code": 0,
+        "store_url": ""
+      }
+    }
+  }
+}
