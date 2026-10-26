@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "enabled": true,
+  "default_release_notes": {
+    "ar": "• تحسينات عامة في الأداء وسسسسسرعة الاستجابة\n• إصلاحات وتحديثات لضمان أفضل تجربة استخدام",
+    "en": "• Performance improvements and bug fixes\n• General optimizations for better user experience"
+  },
   "apps": {
     "com.deenalhaq.abdallah_kamel": {
       "flavor": "abdallah_kamel",
       "name": "عبدالله كامل بدون نت",
-      "release_notes": {
-        "ar": "• تحسين جودة الصوت وتسريع فتح السور\n• إصلاحات عامة وتحسينات في الأداء",
-        "en": "• Performance improvements\n• Bug fixes and UI enhancements"
-      },
       "android": {
         "latest_version_name": "5.0.5",
         "latest_version_code": 23,
