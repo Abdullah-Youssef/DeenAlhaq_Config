@@ -2,7 +2,7 @@
   "schema_version": 1,
   "enabled": true,
   "default_release_notes": {
-    "ar": "• تحسينات عامة في الأداء وسسسسسرعة الاستجابة\n• إصلاحات وتحديثات لضمان أفضل تجربة استخدام",
+    "ar": "• تحسينات عامة في الأداء وسرعة الاستجابة\n• إصلاحات وتحديثات لضمان أفضل تجربة استخدام",
     "en": "• Performance improvements and bug fixes\n• General optimizations for better user experience"
   },
   "apps": {
@@ -10,13 +10,13 @@
       "flavor": "abdallah_kamel",
       "name": "عبدالله كامل بدون نت",
       "android": {
-        "latest_version_name": "5.0.5",
-        "latest_version_code": 23,
+        "latest_version_name": "5.0.4",
+        "latest_version_code": 22,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "5.0.5",
-        "latest_version_code": 23,
+        "latest_version_name": "5.0.4",
+        "latest_version_code": 22,
         "min_version_code": 0,
         "store_url": ""
       }
