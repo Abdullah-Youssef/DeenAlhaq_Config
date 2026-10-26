@@ -5,14 +5,18 @@
     "com.deenalhaq.abdallah_kamel": {
       "flavor": "abdallah_kamel",
       "name": "عبدالله كامل بدون نت",
+      "release_notes": {
+        "ar": "• تحسين جودة الصوت وتسريع فتح السور\n• إصلاحات عامة وتحسينات في الأداء",
+        "en": "• Performance improvements\n• Bug fixes and UI enhancements"
+      },
       "android": {
-        "latest_version_name": "5.0.4",
-        "latest_version_code": 22,
+        "latest_version_name": "5.0.5",
+        "latest_version_code": 23,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "5.0.4",
-        "latest_version_code": 22,
+        "latest_version_name": "5.0.5",
+        "latest_version_code": 23,
         "min_version_code": 0,
         "store_url": ""
       }
