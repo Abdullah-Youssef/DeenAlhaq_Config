@@ -265,13 +265,13 @@
       "flavor": "ahmed_hassan",
       "name": "أحمد حسن بدون نت",
       "android": {
-        "latest_version_name": "13.0.2",
-        "latest_version_code": 15,
+        "latest_version_name": "13.0.3",
+        "latest_version_code": 16,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "13.0.2",
-        "latest_version_code": 15,
+        "latest_version_name": "13.0.3",
+        "latest_version_code": 16,
         "min_version_code": 0,
         "store_url": ""
       }
