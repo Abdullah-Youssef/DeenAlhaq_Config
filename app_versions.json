@@ -25,13 +25,13 @@
       "flavor": "abdirashid_sufi",
       "name": "عبدالرشيد صوفي بدون نت",
       "android": {
-        "latest_version_name": "5.0.2",
-        "latest_version_code": 9,
+        "latest_version_name": "5.0.3",
+        "latest_version_code": 10,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "5.0.2",
-        "latest_version_code": 9,
+        "latest_version_name": "5.0.3",
+        "latest_version_code": 10,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -40,13 +40,13 @@
       "flavor": "abdulaziz_alahmad",
       "name": "عبدالعزيز الأحمد بدون نت",
       "android": {
-        "latest_version_name": "2.0.1",
-        "latest_version_code": 3,
+        "latest_version_name": "2.0.2",
+        "latest_version_code": 4,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "2.0.1",
-        "latest_version_code": 3,
+        "latest_version_name": "2.0.2",
+        "latest_version_code": 4,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -55,13 +55,13 @@
       "flavor": "abdulbari_althubaiti",
       "name": "عبدالبارئ الثبيتي بدون نت",
       "android": {
-        "latest_version_name": "1.0.2",
-        "latest_version_code": 3,
+        "latest_version_name": "2.0.2",
+        "latest_version_code": 4,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "1.0.2",
-        "latest_version_code": 3,
+        "latest_version_name": "2.0.2",
+        "latest_version_code": 4,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -85,13 +85,13 @@
       "flavor": "abdullah_al_mousa",
       "name": "عبدالله الموسى بدون نت",
       "android": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -100,13 +100,13 @@
       "flavor": "abdullah_aljuhany",
       "name": "عبدالله الجهني بدون نت",
       "android": {
-        "latest_version_name": "5.0.2",
-        "latest_version_code": 9,
+        "latest_version_name": "5.0.3",
+        "latest_version_code": 10,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "5.0.2",
-        "latest_version_code": 9,
+        "latest_version_name": "5.0.3",
+        "latest_version_code": 10,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -115,13 +115,13 @@
       "flavor": "abdullah_basfer",
       "name": "عبدالله بصفر بدون نت",
       "android": {
-        "latest_version_name": "2.0.1",
-        "latest_version_code": 3,
+        "latest_version_name": "2.0.2",
+        "latest_version_code": 4,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "2.0.1",
-        "latest_version_code": 3,
+        "latest_version_name": "2.0.2",
+        "latest_version_code": 4,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -130,13 +130,13 @@
       "flavor": "abdullah_matroud",
       "name": "عبدالله مطرود بدون نت",
       "android": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -145,13 +145,13 @@
       "flavor": "abdulmuhsin_alqasim",
       "name": "عبدالمحسن القاسم بدون نت",
       "android": {
-        "latest_version_name": "2.0.1",
-        "latest_version_code": 3,
+        "latest_version_name": "2.0.2",
+        "latest_version_code": 4,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "2.0.1",
-        "latest_version_code": 3,
+        "latest_version_name": "2.0.2",
+        "latest_version_code": 4,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -175,13 +175,13 @@
       "flavor": "abdulwadood_haneef",
       "name": "عبدالودود حنيف بدون نت",
       "android": {
-        "latest_version_name": "5.0.2",
-        "latest_version_code": 9,
+        "latest_version_name": "5.0.3",
+        "latest_version_code": 10,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "5.0.2",
-        "latest_version_code": 9,
+        "latest_version_name": "5.0.3",
+        "latest_version_code": 10,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -190,13 +190,13 @@
       "flavor": "adel_al_kalbani",
       "name": "عادل الكلباني بدون نت",
       "android": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -205,13 +205,13 @@
       "flavor": "afifi_mohammed_taj",
       "name": "عفيفي محمد تاج بدون نت",
       "android": {
-        "latest_version_name": "2.0.1",
-        "latest_version_code": 3,
+        "latest_version_name": "2.0.2",
+        "latest_version_code": 4,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "2.0.1",
-        "latest_version_code": 3,
+        "latest_version_name": "2.0.2",
+        "latest_version_code": 4,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -220,13 +220,13 @@
       "flavor": "ahmad_al_nufais",
       "name": "أحمد النفيس بدون نت",
       "android": {
-        "latest_version_name": "5.0.2",
-        "latest_version_code": 10,
+        "latest_version_name": "5.0.3",
+        "latest_version_code": 11,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "5.0.2",
-        "latest_version_code": 10,
+        "latest_version_name": "5.0.3",
+        "latest_version_code": 11,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -235,13 +235,13 @@
       "flavor": "ahmad_khader_al_tarabulsi",
       "name": "أحمد خضر الطرابلسي بدون نت",
       "android": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -250,13 +250,13 @@
       "flavor": "ahmad_mohammad_taher",
       "name": "أحمد محمد طاهر بدون نت",
       "android": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -280,13 +280,13 @@
       "flavor": "ahmed_naina",
       "name": "أحمد نعينع بدون نت",
       "android": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -295,13 +295,13 @@
       "flavor": "al_afasy",
       "name": "مشاري العفاسي بدون نت",
       "android": {
-        "latest_version_name": "5.0.2",
-        "latest_version_code": 10,
+        "latest_version_name": "5.0.3",
+        "latest_version_code": 11,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "5.0.2",
-        "latest_version_code": 10,
+        "latest_version_name": "5.0.3",
+        "latest_version_code": 11,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -340,13 +340,13 @@
       "flavor": "al_hudhayfi",
       "name": "علي الحذيفي بدون نت",
       "android": {
-        "latest_version_name": "5.0.2",
-        "latest_version_code": 10,
+        "latest_version_name": "5.0.3",
+        "latest_version_code": 11,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "5.0.2",
-        "latest_version_code": 10,
+        "latest_version_name": "5.0.3",
+        "latest_version_code": 11,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -385,13 +385,13 @@
       "flavor": "al_naqshbandi",
       "name": "ابتهالات النقشبندي بدون نت",
       "android": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -445,13 +445,13 @@
       "flavor": "alarefi_lectures",
       "name": "محاضرات العريفي بدون نت",
       "android": {
-        "latest_version_name": "7.0.1",
-        "latest_version_code": 8,
+        "latest_version_name": "7.0.2",
+        "latest_version_code": 9,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "7.0.1",
-        "latest_version_code": 8,
+        "latest_version_name": "7.0.2",
+        "latest_version_code": 9,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -460,13 +460,13 @@
       "flavor": "alarifi_qisas_alianbia",
       "name": "العريفي قصص الانبياء بدون نت",
       "android": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -490,13 +490,13 @@
       "flavor": "ali_jaber",
       "name": "علي جابر بدون نت",
       "android": {
-        "latest_version_name": "5.0.2",
-        "latest_version_code": 10,
+        "latest_version_name": "5.0.3",
+        "latest_version_code": 11,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "5.0.2",
-        "latest_version_code": 10,
+        "latest_version_name": "5.0.3",
+        "latest_version_code": 11,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -520,13 +520,13 @@
       "flavor": "alsayid_mutualiy",
       "name": "السيد متولي بدون نت",
       "android": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -535,13 +535,13 @@
       "flavor": "alsayid_saeid",
       "name": "السيد سعيد بدون نت",
       "android": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -565,13 +565,13 @@
       "flavor": "ameer_shamim",
       "name": "عمير شميم بدون نت",
       "android": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -580,13 +580,13 @@
       "flavor": "amer_alkazemi",
       "name": "عامر الكاظمي بدون نت",
       "android": {
-        "latest_version_name": "7.0.1",
-        "latest_version_code": 8,
+        "latest_version_name": "7.0.2",
+        "latest_version_code": 9,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "7.0.1",
-        "latest_version_code": 8,
+        "latest_version_name": "7.0.2",
+        "latest_version_code": 9,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -595,13 +595,13 @@
       "flavor": "anachid_mishary",
       "name": "أناشيد مشاري العفاسي بدون نت",
       "android": {
-        "latest_version_name": "7.0.1",
-        "latest_version_code": 8,
+        "latest_version_name": "7.0.2",
+        "latest_version_code": 9,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "7.0.1",
-        "latest_version_code": 8,
+        "latest_version_name": "7.0.2",
+        "latest_version_code": 9,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -610,13 +610,13 @@
       "flavor": "anas_jalhoum",
       "name": "انس جلهوم بدون نت",
       "android": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -625,13 +625,13 @@
       "flavor": "anashid_al_mahdawi",
       "name": "أناشيد عبدالله المهداوى",
       "android": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -640,13 +640,13 @@
       "flavor": "anashid_al_muqit",
       "name": "أناشيد محمد المقيط",
       "android": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -655,13 +655,13 @@
       "flavor": "ayman_swed",
       "name": "أيمن سويد بدون نت",
       "android": {
-        "latest_version_name": "5.0.2",
-        "latest_version_code": 10,
+        "latest_version_name": "5.0.3",
+        "latest_version_code": 11,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "5.0.2",
-        "latest_version_code": 10,
+        "latest_version_name": "5.0.3",
+        "latest_version_code": 11,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -670,13 +670,13 @@
       "flavor": "bandar_balila",
       "name": "بندر بليلة بدون نت",
       "android": {
-        "latest_version_name": "5.0.2",
-        "latest_version_code": 10,
+        "latest_version_name": "5.0.3",
+        "latest_version_code": 11,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "5.0.2",
-        "latest_version_code": 10,
+        "latest_version_name": "5.0.3",
+        "latest_version_code": 11,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -685,13 +685,13 @@
       "flavor": "belal_darbali",
       "name": "بلال دربالي بدون نت",
       "android": {
-        "latest_version_name": "2.0.1",
-        "latest_version_code": 3,
+        "latest_version_name": "2.0.2",
+        "latest_version_code": 4,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "2.0.1",
-        "latest_version_code": 3,
+        "latest_version_name": "2.0.2",
+        "latest_version_code": 4,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -760,13 +760,13 @@
       "flavor": "hisham_al_haraz",
       "name": "هشام الهراز بدون نت",
       "android": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -775,13 +775,13 @@
       "flavor": "hosary",
       "name": "محمود خليل الحصرى بدون نت",
       "android": {
-        "latest_version_name": "5.0.2",
-        "latest_version_code": 10,
+        "latest_version_name": "5.0.3",
+        "latest_version_code": 11,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "5.0.2",
-        "latest_version_code": 10,
+        "latest_version_name": "5.0.3",
+        "latest_version_code": 11,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -790,13 +790,13 @@
       "flavor": "ibraakhdar",
       "name": "إبراهيم الأخضر بدون نت",
       "android": {
-        "latest_version_name": "5.0.2",
-        "latest_version_code": 10,
+        "latest_version_name": "5.0.3",
+        "latest_version_code": 11,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "5.0.2",
-        "latest_version_code": 10,
+        "latest_version_name": "5.0.3",
+        "latest_version_code": 11,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -805,13 +805,13 @@
       "flavor": "idris_abkar",
       "name": "إدريس أبكر بدون نت",
       "android": {
-        "latest_version_name": "7.0.1",
-        "latest_version_code": 8,
+        "latest_version_name": "7.0.2",
+        "latest_version_code": 9,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "7.0.1",
-        "latest_version_code": 8,
+        "latest_version_name": "7.0.2",
+        "latest_version_code": 9,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -820,13 +820,13 @@
       "flavor": "ilyas_hajri",
       "name": "الياس حجري بدون نت",
       "android": {
-        "latest_version_name": "2.0.1",
-        "latest_version_code": 3,
+        "latest_version_name": "2.0.2",
+        "latest_version_code": 4,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "2.0.1",
-        "latest_version_code": 3,
+        "latest_version_name": "2.0.2",
+        "latest_version_code": 4,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -835,13 +835,13 @@
       "flavor": "islam_sobhi",
       "name": "إسلام صبحي بدون نت",
       "android": {
-        "latest_version_name": "7.0.1",
-        "latest_version_code": 8,
+        "latest_version_name": "7.0.2",
+        "latest_version_code": 9,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "7.0.1",
-        "latest_version_code": 8,
+        "latest_version_name": "7.0.2",
+        "latest_version_code": 9,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -865,13 +865,13 @@
       "flavor": "khatab_hazim_shuman",
       "name": "خطب حازم شومان بدون نت",
       "android": {
-        "latest_version_name": "7.0.1",
-        "latest_version_code": 8,
+        "latest_version_name": "7.0.2",
+        "latest_version_code": 9,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "7.0.1",
-        "latest_version_code": 8,
+        "latest_version_name": "7.0.2",
+        "latest_version_code": 9,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -880,13 +880,13 @@
       "flavor": "khatab_kushk",
       "name": "خطب كشك بدون نت",
       "android": {
-        "latest_version_name": "7.0.1",
-        "latest_version_code": 8,
+        "latest_version_name": "7.0.2",
+        "latest_version_code": 9,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "7.0.1",
-        "latest_version_code": 8,
+        "latest_version_name": "7.0.2",
+        "latest_version_code": 9,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -895,13 +895,13 @@
       "flavor": "khutab_al_shaarawy",
       "name": "خطب الشعراوي بدون نت",
       "android": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -910,13 +910,13 @@
       "flavor": "khutab_al_shanqity",
       "name": "خطب محمد الشنقيطي بدون نت",
       "android": {
-        "latest_version_name": "2.0.1",
-        "latest_version_code": 3,
+        "latest_version_name": "2.0.2",
+        "latest_version_code": 4,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "2.0.1",
-        "latest_version_code": 3,
+        "latest_version_name": "2.0.2",
+        "latest_version_code": 4,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -925,13 +925,13 @@
       "flavor": "mohamed_almohisni",
       "name": "محمد المحيسني بدون نت",
       "android": {
-        "latest_version_name": "5.0.2",
-        "latest_version_code": 9,
+        "latest_version_name": "5.0.3",
+        "latest_version_code": 10,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "5.0.2",
-        "latest_version_code": 9,
+        "latest_version_name": "5.0.3",
+        "latest_version_code": 10,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -940,13 +940,13 @@
       "flavor": "mohamed_elbarak",
       "name": "محمد البراك بدون نت",
       "android": {
-        "latest_version_name": "7.0.1",
-        "latest_version_code": 8,
+        "latest_version_name": "7.0.2",
+        "latest_version_code": 9,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "7.0.1",
-        "latest_version_code": 8,
+        "latest_version_name": "7.0.2",
+        "latest_version_code": 9,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -955,13 +955,13 @@
       "flavor": "mohamed_hady_toure",
       "name": "محمد الهادي توري بدون نت",
       "android": {
-        "latest_version_name": "2.0.1",
-        "latest_version_code": 3,
+        "latest_version_name": "2.0.2",
+        "latest_version_code": 4,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "2.0.1",
-        "latest_version_code": 3,
+        "latest_version_name": "2.0.2",
+        "latest_version_code": 4,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -970,13 +970,13 @@
       "flavor": "mohamed_osman",
       "name": "محمد عثمان حاج علي بدون نت",
       "android": {
-        "latest_version_name": "2.0.1",
-        "latest_version_code": 3,
+        "latest_version_name": "2.0.2",
+        "latest_version_code": 4,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "2.0.1",
-        "latest_version_code": 3,
+        "latest_version_name": "2.0.2",
+        "latest_version_code": 4,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -985,13 +985,13 @@
       "flavor": "mohammad_allaythi",
       "name": "محمد الليثي بدون نت",
       "android": {
-        "latest_version_name": "7.0.1",
-        "latest_version_code": 8,
+        "latest_version_name": "7.0.2",
+        "latest_version_code": 9,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "7.0.1",
-        "latest_version_code": 8,
+        "latest_version_name": "7.0.2",
+        "latest_version_code": 9,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -1000,13 +1000,13 @@
       "flavor": "mohammad_hussein_amer",
       "name": "محمد حسين عامر بدون نت",
       "android": {
-        "latest_version_name": "2.0.1",
-        "latest_version_code": 3,
+        "latest_version_name": "2.0.2",
+        "latest_version_code": 4,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "2.0.1",
-        "latest_version_code": 3,
+        "latest_version_name": "2.0.2",
+        "latest_version_code": 4,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -1015,13 +1015,13 @@
       "flavor": "mohammad_jibril",
       "name": "محمد جبريل بدون نت",
       "android": {
-        "latest_version_name": "5.0.2",
-        "latest_version_code": 10,
+        "latest_version_name": "5.0.3",
+        "latest_version_code": 11,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "5.0.2",
-        "latest_version_code": 10,
+        "latest_version_name": "5.0.3",
+        "latest_version_code": 11,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -1030,13 +1030,13 @@
       "flavor": "mohammad_taha_aljunaid",
       "name": "محمد طه الجنيد بدون نت",
       "android": {
-        "latest_version_name": "2.0.1",
-        "latest_version_code": 3,
+        "latest_version_name": "2.0.2",
+        "latest_version_code": 4,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "2.0.1",
-        "latest_version_code": 3,
+        "latest_version_name": "2.0.2",
+        "latest_version_code": 4,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -1045,13 +1045,13 @@
       "flavor": "mohammd_hassaan",
       "name": "محمد حسان بدون نت",
       "android": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -1060,13 +1060,13 @@
       "flavor": "mohammed_al_faqih",
       "name": "محمد الفقيه بدون نت",
       "android": {
-        "latest_version_name": "4.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "4.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -1075,13 +1075,13 @@
       "flavor": "mohammed_al_luhaidan",
       "name": "محمد اللحيدان بدون نت",
       "android": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -1105,13 +1105,13 @@
       "flavor": "mohammed_ayub",
       "name": "محمد أيوب بدون نت",
       "android": {
-        "latest_version_name": "5.0.2",
-        "latest_version_code": 10,
+        "latest_version_name": "5.0.3",
+        "latest_version_code": 11,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "5.0.2",
-        "latest_version_code": 10,
+        "latest_version_name": "5.0.3",
+        "latest_version_code": 11,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -1120,13 +1120,13 @@
       "flavor": "mostafa_ismail",
       "name": "مصطفى اسماعيل بدون نت",
       "android": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -1150,13 +1150,13 @@
       "flavor": "muhadarat_nabil_al_awadi",
       "name": "محاضرات نبيل العوضي",
       "android": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -1165,13 +1165,13 @@
       "flavor": "mustafa_al_lahouni",
       "name": "مصطفى اللاهوني بدون نت",
       "android": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -1180,13 +1180,13 @@
       "flavor": "nasreddin_tobar",
       "name": "نصر الدين طوبار بدون نت",
       "android": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -1195,13 +1195,13 @@
       "flavor": "nourin_mohamed_siddiq",
       "name": "نورين محمد صديق بدون نت",
       "android": {
-        "latest_version_name": "7.0.1",
-        "latest_version_code": 8,
+        "latest_version_name": "7.0.2",
+        "latest_version_code": 9,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "7.0.1",
-        "latest_version_code": 8,
+        "latest_version_name": "7.0.2",
+        "latest_version_code": 9,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -1240,13 +1240,13 @@
       "flavor": "raad_alkurdi",
       "name": "رعد الكردي بدون نت",
       "android": {
-        "latest_version_name": "5.0.2",
-        "latest_version_code": 10,
+        "latest_version_name": "5.0.3",
+        "latest_version_code": 11,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "5.0.2",
-        "latest_version_code": 10,
+        "latest_version_name": "5.0.3",
+        "latest_version_code": 11,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -1255,13 +1255,13 @@
       "flavor": "ramadan_songs",
       "name": "أغاني رمضان بدون نت",
       "android": {
-        "latest_version_name": "7.0.1",
-        "latest_version_code": 8,
+        "latest_version_name": "7.0.2",
+        "latest_version_code": 9,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "7.0.1",
-        "latest_version_code": 8,
+        "latest_version_name": "7.0.2",
+        "latest_version_code": 9,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -1270,13 +1270,13 @@
       "flavor": "rawayie_alsaalimi",
       "name": "روائع منصور السالمي بدون نت",
       "android": {
-        "latest_version_name": "7.0.1",
-        "latest_version_code": 8,
+        "latest_version_name": "7.0.2",
+        "latest_version_code": 9,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "7.0.1",
-        "latest_version_code": 8,
+        "latest_version_name": "7.0.2",
+        "latest_version_code": 9,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -1285,13 +1285,13 @@
       "flavor": "rawayie_khalid_alraashid",
       "name": "روائع خالد الراشد بدون نت",
       "android": {
-        "latest_version_name": "7.0.1",
-        "latest_version_code": 8,
+        "latest_version_name": "7.0.2",
+        "latest_version_code": 9,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "7.0.1",
-        "latest_version_code": 8,
+        "latest_version_name": "7.0.2",
+        "latest_version_code": 9,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -1300,13 +1300,13 @@
       "flavor": "ruqyah_shareia",
       "name": "الرقية الشرعية الشاملة بدون نت",
       "android": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -1315,13 +1315,13 @@
       "flavor": "salah_al_hashem",
       "name": "صلاح الهاشم بدون نت",
       "android": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -1330,13 +1330,13 @@
       "flavor": "salah_bukhatir",
       "name": "صلاح بو خاطر بدون نت",
       "android": {
-        "latest_version_name": "5.0.2",
-        "latest_version_code": 10,
+        "latest_version_name": "5.0.3",
+        "latest_version_code": 11,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "5.0.2",
-        "latest_version_code": 10,
+        "latest_version_name": "5.0.3",
+        "latest_version_code": 11,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -1360,13 +1360,13 @@
       "flavor": "shaban_al_sayyad",
       "name": "شعبان الصياد بدون نت",
       "android": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -1375,13 +1375,13 @@
       "flavor": "shahat_anwar",
       "name": "الشحات أنور بدون نت",
       "android": {
-        "latest_version_name": "5.0.2",
-        "latest_version_code": 9,
+        "latest_version_name": "5.0.3",
+        "latest_version_code": 10,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "5.0.2",
-        "latest_version_code": 9,
+        "latest_version_name": "5.0.3",
+        "latest_version_code": 10,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -1390,13 +1390,13 @@
       "flavor": "somayya_aldeeb",
       "name": "سمية الديب بدون نت",
       "android": {
-        "latest_version_name": "7.0.1",
-        "latest_version_code": 8,
+        "latest_version_name": "7.0.2",
+        "latest_version_code": 9,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "7.0.1",
-        "latest_version_code": 8,
+        "latest_version_name": "7.0.2",
+        "latest_version_code": 9,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -1420,13 +1420,13 @@
       "flavor": "tawfik_assayegh",
       "name": "توفيق الصائغ بدون نت",
       "android": {
-        "latest_version_name": "5.0.2",
-        "latest_version_code": 11,
+        "latest_version_name": "5.0.3",
+        "latest_version_code": 12,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "5.0.2",
-        "latest_version_code": 11,
+        "latest_version_name": "5.0.3",
+        "latest_version_code": 12,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -1450,13 +1450,13 @@
       "flavor": "walid_alfalluji",
       "name": "وليد الفلوجي بدون نت",
       "android": {
-        "latest_version_name": "7.0.1",
-        "latest_version_code": 8,
+        "latest_version_name": "7.0.2",
+        "latest_version_code": 9,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "7.0.1",
-        "latest_version_code": 8,
+        "latest_version_name": "7.0.2",
+        "latest_version_code": 9,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -1465,13 +1465,13 @@
       "flavor": "yahya_hawwa",
       "name": "يحيى حوى بدون نت",
       "android": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -1480,13 +1480,13 @@
       "flavor": "yassin_al_jazaery",
       "name": "ياسين الجزائري بدون نت",
       "android": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "5.0.1",
-        "latest_version_code": 6,
+        "latest_version_name": "5.0.2",
+        "latest_version_code": 7,
         "min_version_code": 0,
         "store_url": ""
       }
@@ -1495,13 +1495,13 @@
       "flavor": "yusuf_kalo",
       "name": "يوسف كالو بدون نت",
       "android": {
-        "latest_version_name": "7.0.1",
-        "latest_version_code": 8,
+        "latest_version_name": "7.0.2",
+        "latest_version_code": 9,
         "min_version_code": 0
       },
       "ios": {
-        "latest_version_name": "7.0.1",
-        "latest_version_code": 8,
+        "latest_version_name": "7.0.2",
+        "latest_version_code": 9,
         "min_version_code": 0,
         "store_url": ""
       }
